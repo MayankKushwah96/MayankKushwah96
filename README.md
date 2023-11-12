@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankkushwah96&label=Profile%20views&color=0e75b6&style=flat" alt="mayankkushwah96" /> </p>
 
-- 🌱 I’m currently learning **Data Structures, Django**
+- 🌱 I’m currently learning **Data Structures, Django REST Framework**
 
-- 💬 Ask me about **Python, Object Oriented Programming**
+- 💬 Ask me about **Object Oriented Programming**
 
 - 📫 How to reach me **mayankkushwah231@gmail.com**
 

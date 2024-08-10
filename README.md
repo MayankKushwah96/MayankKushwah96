@@ -1,7 +1,6 @@
 ![](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+MAYANK+KUSHWAH..;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>

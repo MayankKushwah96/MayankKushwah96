@@ -1,14 +1,14 @@
+![](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+MAYANK+KUSHWAH..;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">A passionate python developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankkushwah96&label=Profile%20views&color=0e75b6&style=flat" alt="mayankkushwah96" /> </p>
 
-- 🌱 I’m currently learning **Data Structures, Django REST Framework**
+- 🌱 I’m currently learning **Data Structures**
 
 - 💬 Ask me about **Object Oriented Programming**
 
@@ -79,4 +79,3 @@
 
 <br>
 
-![snake gif](https://github.com/mayankkushwah96/mayankkushwah96/blob/output/github-snake.svg)
